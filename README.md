@@ -56,6 +56,7 @@ Then trigger it in any Claude Code session with phrases like **"council this"**,
 ## Credits
 
 - Concept: [Andrej Karpathy — LLM Council](https://github.com/karpathy/llm-council)
+- Five-advisor council skill (Contrarian, First Principles Thinker, Expansionist, Outsider, Executor + chairman): [Ole Lehmann](https://x.com/itsolelehmann), [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council)
 - Claude Code sub-agent adaptation: this skill.
 
 ## License
